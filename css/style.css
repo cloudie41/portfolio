@@ -63,6 +63,11 @@ End of Base Styles
 /* ----------------------------------------
 Works Style
 ------------------------------------------- */
+section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
 
 h3{
   padding-top: 150px;
