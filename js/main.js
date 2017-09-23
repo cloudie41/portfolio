@@ -5,5 +5,5 @@ $('.hamburger').on('click', function(){
 
 $('.close').on('click', function(){
   console.log('button is clicked')
-  $('.nav-links').removeClass("active");
+  $('.nav-links').removeClass('active');
 });
